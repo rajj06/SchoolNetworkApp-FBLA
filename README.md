@@ -10,7 +10,7 @@ This project was build as a school internal scheduling, internal communications,
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+
 * NPM
 *Expo
 *React 
@@ -27,16 +27,12 @@ This project was build as a school internal scheduling, internal communications,
 * After, opening the app, open the terminal
 *type in npm start
 *After this, scan the qrcode using the camera app for ios and the expo go app for a mac
-```
-code blocks for commands
-```
+
+
 
 ## Help
 
 Npm not found-check for npm version and redownload it
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
